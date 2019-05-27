@@ -1,1 +1,28 @@
 /* All styles for your header Components live here */
+
+.lambdaLogo {
+    width: 45px;
+    height: 50px;
+}
+
+.header {
+    display: flex;
+}
+
+.headerTitle {
+    display: flex;
+    align-items: center;
+    height: 25px;
+}
+
+.headerTitle p {
+    color: grey;
+}
+
+.headerTitle p strong {
+    color: black;
+}
+
+.titleContent {
+    width: 600px;
+}
