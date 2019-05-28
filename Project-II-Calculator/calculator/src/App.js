@@ -20,7 +20,7 @@ const App = () => {
   const numbersComponents3 = numbers3.map(numbers => <NumberButton text={numbers} buttonStyle='white-button'/>);
 
   return (
-    <div>
+    <div className="container">
       <CalculatorDisplay buttonStyle="display" number="10000000"/>
       <div className="calc-body">
         <div className="input">
