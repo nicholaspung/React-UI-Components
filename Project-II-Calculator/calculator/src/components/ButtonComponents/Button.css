@@ -6,7 +6,7 @@
     background: white;
     font-size: 48px;
     color: black;
-    border: 1px solid grey;
+    border: 2px solid grey;
 }
 
 .white-button:focus {
@@ -17,7 +17,7 @@
 .red-button {
     background: #a0001e;
     font-size: 48px;
-    border: 1px solid grey;
+    border: 2px solid grey;
 }
 
 
